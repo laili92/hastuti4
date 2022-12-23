@@ -188,7 +188,7 @@ class UTS extends StatelessWidget {
 }
 
 /*
-Tugas 2 - 4
+UTS
 Nama : Laili Hastuti
 NRP : 2210020138
 Kelas : 5A NonReg SI BJM
